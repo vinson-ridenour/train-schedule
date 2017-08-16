@@ -1,2 +1,2 @@
-# train-schedule
+# train-scheduler
 Choo choo!
